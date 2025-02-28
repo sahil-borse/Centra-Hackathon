@@ -1,0 +1,6 @@
+@Resorce_planner_HostAddress = http://localhost:5195
+
+GET {{Resorce_planner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
